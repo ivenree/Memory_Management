@@ -63,7 +63,6 @@ public class Client
             else if (command.startsWith("remove song"))
             {
                 String[] songName = command.split("remove song ");
-                // System.out.println("enter remove: " + songName[1]);
                 removeSong(songName[1]);
             }
             else if (command.startsWith("remove artist"))
