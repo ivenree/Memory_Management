@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 // -------------------------------------------------------------------------
 /**
- * Paser the command file.
+ * Parser the command file.
  *
  * @author wenfeng ren (rwenfeng)
  * @version Sep 12, 2014
